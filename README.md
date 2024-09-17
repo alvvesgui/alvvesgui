@@ -6,9 +6,9 @@
 
 <!-- Presentation -->
 <p>
-Sou um Desenvolvedor/Analista apaixonado por tecnologia e inovação, com formação em Tecnólogo em Análise e Desenvolvimento de Sistemas e diversos cursos complementares na área de Tecnologia. Minha jornada profissional começou como auxiliar administrativo, e desde então, iniciei minha trajetória no universo de TI como desenvolvedor júnior. Nessa função, desenvolvi habilidades técnicas e analíticas que me ajudam a resolver problemas e criar soluções eficientes.
+Sou um Desenvolvedor/Analista apaixonado por tecnologia, automação e inovação, com formação no curso Tecnólogo em Análise e Desenvolvimento de Sistemas e dentre outros cursos complementares na área de Tecnologia. Minha jornada profissional começou como auxiliar administrativo, e após isso, iniciei minha trajetória no universo de TI como desenvolvedor júnior. Nessa função, desenvolvi habilidades técnicas e analíticas que me ajudam a resolver problemas e criar soluções eficientes.
   
-Aqui no meu GitHub, você encontrará projetos que refletem meu interesse por desenvolvimento de software, desde aplicações web até automações. Adoro aprender novas tecnologias e estou sempre em busca de desafios que me ajudem a crescer e a aprimorar minhas habilidades.
+Aqui no meu GitHub, você encontrará projetos que refletem meu interesse por desenvolvimento de software. Adoro aprender novas tecnologias e estou sempre em busca de desafios que me ajudem a crescer e a aprimorar minhas habilidades.
 
 Se você tiver alguma dúvida, feedback ou apenas quiser conversar sobre tecnologia, fique à vontade para me contatar!
 </p>
