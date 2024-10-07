@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-Sou um Desenvolvedor Jr / Analista apaixonado por tecnologia, automação e inovação, com formação no curso Tecnólogo em Análise e Desenvolvimento de Sistemas e dentre outros cursos complementares na área de Tecnologia. Minha jornada profissional começou como auxiliar administrativo, e após isso, iniciei minha trajetória no universo de TI como desenvolvedor júnior. Nessa função, desenvolvi habilidades técnicas e analíticas que me ajudam a resolver problemas e criar soluções eficientes.
+Sou um Desenvolvedor Jr / Analista Jr apaixonado por tecnologia, automação e inovação, com formação no curso Tecnólogo em Análise e Desenvolvimento de Sistemas e dentre outros cursos complementares na área de Tecnologia. Minha jornada profissional começou como auxiliar administrativo, e após isso, iniciei minha trajetória no universo de TI como desenvolvedor júnior. Nessa função, desenvolvi habilidades técnicas e analíticas que me ajudam a resolver problemas e criar soluções eficientes.
   
 Aqui no meu GitHub, você encontrará projetos que refletem meu interesse por desenvolvimento de software. Adoro aprender novas tecnologias e estou sempre em busca de desafios que me ajudem a crescer e a aprimorar minhas habilidades.
 
@@ -19,7 +19,7 @@ Se você tiver alguma dúvida, feedback ou apenas quiser conversar sobre tecnolo
 
   - Sou um profissional de TI com 21 anos e atualmente moro em São Paulo. Atuo como desenvolvedor júnior, trazendo conhecimento em SQL, Python e JavaScript, além de princípios de CSS e HTML. Tenho experiência em análise e manipulação de dados, gerenciamento de sistemas e operações. Estou sempre em busca de oportunidades para crescer e contribuir em projetos desafiadores no campo da tecnologia.
 
-  - No meu tempo livre, gosto de assistir, praticar e acompanhar futebol, jogar videogame, estudar sobre novos conteúdos, e ler livros, HQs, mangás ou quadrinhos. Também aprecio assistir filmes e séries e passar tempo com familiares e amigos. Acredito que essas atividades não só enriquecem meu conhecimento e relaxam minha mente, mas também contribuem para uma percepção mais aguçada e para a resolução de problemas de maneira criativa e eficaz.
+  - No meu tempo livre, gosto de assistir, praticar e acompanhar futebol, jogar videogame, estudar sobre novos conteúdos, e ler livros, HQs, mangás ou quadrinhos. Também curto assistir filmes, séries e passar tempo com familiares e amigos. Acredito que essas atividades não só enriquecem meu conhecimento e relaxam minha mente, mas também contribuem para a resolução de problemas de maneira criativa e eficaz.
 </details>
 
 <!-- Links -->
